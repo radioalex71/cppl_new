@@ -52,7 +52,7 @@ void SmartArray::addElement(const int value)
 {
 	if (countOver >= sizeArr)
 	{
-		throw std::out_of_range("Size of array is smaller");
+		throw std::out_of_range("Size of array is smaller!");
 	}
 	sm_arr[countOver++] = value;
 };
@@ -60,9 +60,9 @@ void SmartArray::addElement(const int value)
 //функция получения элемента массива по индексу
 int SmartArray::getElement(const size_t index)
 {
-	if ((index >= sizeArr) || (index < 0))
+	if (index >= countOver)
 	{
-		throw std::out_of_range("The getting element is out of array range");
+		throw std::out_of_range("The getting element is out of array range!");
 	}
 	return sm_arr[index];
 };

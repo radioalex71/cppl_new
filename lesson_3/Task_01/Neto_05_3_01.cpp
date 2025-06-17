@@ -1,10 +1,14 @@
 ﻿// Neto_05_3_01.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
 #include <iostream>
 
+#include <iostream>
 #include "SmartArray.h"
+#include "Windows.h"
 
 int main(int argc, char** argv) {
     setlocale(LC_ALL, "rus");
+    SetConsoleCP(1251);
+    SetConsoleOutputCP(1251);
 
     try {
         smart_array arr(6);
@@ -14,6 +18,7 @@ int main(int argc, char** argv) {
         arr.addElement(14);
         arr.addElement(15);
         arr.addElement(22);
+        //arr.addElement(222);
         //arr.printSmartArray();
         std::cout << arr.getElement(5) << std::endl;
     }
