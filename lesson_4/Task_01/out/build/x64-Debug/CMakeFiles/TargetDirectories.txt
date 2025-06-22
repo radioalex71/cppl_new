@@ -1,0 +1,9 @@
+D:/нетология_24/cppl_new/lesson_4/Task_01/out/build/x64-Debug/CMakeFiles/Task_01.dir
+D:/нетология_24/cppl_new/lesson_4/Task_01/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/нетология_24/cppl_new/lesson_4/Task_01/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+D:/нетология_24/cppl_new/lesson_4/Task_01/out/build/x64-Debug/catch2/CMakeFiles/edit_cache.dir
+D:/нетология_24/cppl_new/lesson_4/Task_01/out/build/x64-Debug/catch2/CMakeFiles/rebuild_cache.dir
+D:/нетология_24/cppl_new/lesson_4/Task_01/out/build/x64-Debug/catch2/src/CMakeFiles/Catch2.dir
+D:/нетология_24/cppl_new/lesson_4/Task_01/out/build/x64-Debug/catch2/src/CMakeFiles/Catch2WithMain.dir
+D:/нетология_24/cppl_new/lesson_4/Task_01/out/build/x64-Debug/catch2/src/CMakeFiles/edit_cache.dir
+D:/нетология_24/cppl_new/lesson_4/Task_01/out/build/x64-Debug/catch2/src/CMakeFiles/rebuild_cache.dir
